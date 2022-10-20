@@ -1,10 +1,8 @@
 # JAVA-Assessment-1
 
-# JAVA Assessment Test - 1
-
 * Java Version 11
 
-# Requirement - Java Core : Create a Java application (use main method) to read data from a CSV file and expose data into the JSON
+* Requirement - Java Core : Create a Java application (use main method) to read data from a CSV file and expose data into the JSON
 
 |First Name | Last Name       |Age          |
 |-----------|-----------------| :----------:|
